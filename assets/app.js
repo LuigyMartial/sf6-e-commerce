@@ -1,4 +1,8 @@
-import './bootstrap.js';
+// bootstrap
+//import './bootstrap.js';
+require('bootstrap');
+
+import './styles/app.scss';
 /*
  * Welcome to your app's main JavaScript file!
  *
